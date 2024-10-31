@@ -22,6 +22,6 @@ Para executar o código, utilize o seguinte comando no terminal:
 ```bash
 go run main.go
 ```
-![Screenshot](screenshot.png)
+![Imagem do teste](test.png)
 
 
